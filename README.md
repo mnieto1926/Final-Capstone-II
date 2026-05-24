@@ -107,7 +107,7 @@ XGBoost
 matplotlib
 seaborn
 
-Clinicar Relevance
+Clinical Relevance
 
 This project demonstrates how machine learning may support:
 early disease progression detection
